@@ -1,0 +1,124 @@
+"country","HdiTier","Hdi2021","WorldBankIncomeGroup2022","GniPerCapita2020"
+"India","Medium",0.633,"Lower-Middle Income",1920
+"China","High",0.768,"Upper-Middle Income",10550
+"Indonesia","High",0.705,"Lower-Middle Income",3870
+"Pakistan","Low",0.544,"Lower-Middle Income",1270
+"Nigeria","Low",0.535,"Lower-Middle Income",2000
+"Brazil","High",0.754,"Upper-Middle Income",7850
+"Bangladesh","Medium",0.661,"Lower-Middle Income",2030
+"Ethiopia","Low",0.498,"Low-Income",890
+"Mexico","High",0.758,"Upper-Middle Income",8480
+"Philippines","Medium",0.699,"Lower-Middle Income",3430
+"Egypt","High",0.731,"Lower-Middle Income",3000
+"DR Congo","Low",0.479,"Low-Income",550
+"Vietnam","High",0.703,"Lower-Middle Income",2650
+"Iran","High",0.774,"Lower-Middle Income",2960
+"Tanzania","Low",0.549,"Lower-Middle Income",1080
+"South Africa","High",0.713,"Upper-Middle Income",6010
+"Kenya","Medium",0.575,"Lower-Middle Income",1840
+"Myanmar","Medium",0.585,"Lower-Middle Income",1350
+"Colombia","High",0.752,"Upper-Middle Income",5790
+"Uganda","Low",0.525,"Low-Income",800
+"Sudan","Low",0.508,"Low-Income",650
+"Iraq","Medium",0.686,"Upper-Middle Income",4680
+"Algeria","High",0.745,"Lower-Middle Income",3570
+"Afghanistan","Low",0.478,"Low-Income",500
+"Morocco","Medium",0.683,"Lower-Middle Income",2980
+"Ukraine","High",0.773,"Lower-Middle Income",3540
+"Angola","Medium",0.586,"Lower-Middle Income",2140
+"Uzbekistan","High",0.727,"Lower-Middle Income",1740
+"Yemen","Low",0.455,"Low-Income",910
+"Mozambique","Low",0.446,"Low-Income",460
+"Ghana","Medium",0.632,"Lower-Middle Income",2340
+"Peru","High",0.762,"Upper-Middle Income",6030
+"Nepal","Medium",0.602,"Lower-Middle Income",1190
+"Madagascar","Low",0.501,"Low-Income",470
+"Ivory Coast","Medium",0.55,"Lower-Middle Income",2280
+"Venezuela","Medium",0.691,"not rated",13080
+"Cameroon","Medium",0.576,"Lower-Middle Income",1520
+"Niger","Low",0.4,,
+"Syria","Medium",0.577,"Low-Income",1170
+"Mali","Low",0.428,"Low-Income",830
+"Burkina Faso","Low",0.449,"Low-Income",770
+"Sri Lanka","High",0.782,"Lower-Middle Income",3720
+"Malawi","Low",0.512,"Low-Income",580
+"Zambia","Medium",0.565,"Lower-Middle Income",1160
+"Chad","Low",0.394,"Low-Income",630
+"Ecuador","High",0.74,"Upper-Middle Income",5530
+"Guatemala","Medium",0.627,"Upper-Middle Income",4490
+"Senegal","Low",0.511,"Lower-Middle Income",1430
+"Cambodia","Medium",0.593,"Lower-Middle Income",1500
+"Zimbabwe","Medium",0.593,"Lower-Middle Income",1140
+"Guinea","Low",0.465,"Low-Income",1020
+"Rwanda","Low",0.534,"Low-Income",780
+"Benin","Low",0.525,"Lower-Middle Income",1280
+"Burundi","Low",0.426,"Low-Income",230
+"Bolivia","Medium",0.692,"Lower-Middle Income",3180
+"Tunisia","High",0.731,"Lower-Middle Income",3300
+"Haiti","Low",0.535,"Lower-Middle Income",1320
+"Dominican Republic","High",0.767,"Upper-Middle Income",7260
+"Jordan","High",0.72,"Upper-Middle Income",4310
+"South Sudan","Low",0.385,"Low-Income",1090
+"Cuba","High",0.764,"Upper-Middle Income",8630
+"Honduras","Medium",0.621,"Lower-Middle Income",2180
+"Papua New Guinea","Medium",0.558,"Lower-Middle Income",2720
+"Azerbaijan","High",0.745,"Upper-Middle Income",4480
+"Tajikistan","Medium",0.685,"Lower-Middle Income",1060
+"Togo","Low",0.539,"Low-Income",920
+"Sierra Leone","Low",0.477,"Low-Income",510
+"Laos","Medium",0.607,"Lower-Middle Income",2520
+"Nicaragua","Medium",0.667,"Lower-Middle Income",1850
+"Libya","High",0.718,"Upper-Middle Income",4960
+"Paraguay","High",0.717,"Upper-Middle Income",5180
+"Kyrgyzstan","Medium",0.692,"Lower-Middle Income",1160
+"Bulgaria","High",0.795,"Upper-Middle Income",9630
+"Turkmenistan","High",0.745,"Upper-Middle Income",7220
+"El Salvador","Medium",0.675,"Lower-Middle Income",3630
+"Republic of the Congo","Medium",0.571,"Lower-Middle Income",1770
+"Central African Republic","Low",0.404,"Low-Income",500
+"Liberia","Low",0.481,"Low-Income",570
+"Palestine","High",0.715,"not rated",
+"Lebanon","High",0.706,"Upper-Middle Income",5370
+"Mauritania","Medium",0.556,"Lower-Middle Income",1670
+"Eritrea","Low",0.492,"Low-Income",600
+"Mongolia","High",0.739,"Lower-Middle Income",3740
+"Moldova","High",0.767,"Upper-Middle Income",4560
+"Bosnia and Herzegovina","High",0.78,"Upper-Middle Income",6080
+"Gambia","Low",0.5,"Low-Income",750
+"Albania","High",0.796,"Upper-Middle Income",5210
+"Jamaica","High",0.709,"Upper-Middle Income",4670
+"Armenia","High",0.759,"Upper-Middle Income",4220
+"Botswana","Medium",0.693,"Upper-Middle Income",
+"Namibia","Medium",0.615,"Upper-Middle Income",4500
+"Gabon","High",0.706,"Upper-Middle Income",7030
+"Lesotho","Low",0.514,"Lower-Middle Income",1100
+"North Macedonia","High",0.77,"Upper-Middle Income",5750
+"Equatorial Guinea","Medium",0.596,"Upper-Middle Income",5810
+"Eswatini","Medium",0.597,"Lower-Middle Income",3410
+"Djibouti","Low",0.509,"Lower-Middle Income",3310
+"Fiji","High",0.73,"Upper-Middle Income",4890
+"Comoros","Medium",0.558,"Lower-Middle Income",1400
+"Guyana","High",0.714,"Upper-Middle Income",7130
+"Bhutan","Medium",0.666,"Lower-Middle Income",2840
+"Solomon Islands","Medium",0.564,"Lower-Middle Income",2300
+"Suriname","High",0.73,"Upper-Middle Income",4620
+"Cape Verde","Medium",0.662,"Lower-Middle Income",3060
+"Maldives","High",0.747,"Upper-Middle Income",6490
+"Belize","Medium",0.683,"Lower-Middle Income",4110
+"Vanuatu","Medium",0.607,"Lower-Middle Income",3190
+"Barbados","High",0.79,"High-Income ",14350
+"Sao Tome and Principe","Medium",0.618,"Lower-Middle Income",2060
+"Samoa","High",0.707,"Lower-Middle Income",4050
+"Saint Lucia","High",0.715,"Upper-Middle Income",8560
+"Kiribati","Medium",0.624,"Lower-Middle Income",2960
+"Grenada","High",0.795,"Upper-Middle Income",9410
+"Micronesia","Medium",0.628,,
+"Tonga","High",0.745,"Upper-Middle Income",5190
+"Seychelles","High",0.785,"High-Income ",12200
+"Antigua and Barbuda","High",0.788,"High-Income ",13750
+"Dominica","High",0.72,,
+"Saint Kitts and Nevis","High",0.777,"High-Income ",19080
+"Marshall Islands","Medium",0.639,"Upper-Middle Income",4940
+"Palau","High",0.767,"High-Income ",14390
+"Tuvalu","Medium",0.641,"Upper-Middle Income",5820
+"Total",,0.6366639344262295,,
