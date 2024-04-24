@@ -23,9 +23,9 @@ Exploratory Data Analysis (EDA) carried out:
    - Extensive data visualizations were employed to explore the dataset.
    - Visualizations included line plots, box plots, bar plots and heat map among others.
 
-By combining rigorous statistical analysis with intuitive data visualizations, we were able to derive meaningful insights.
+By combining rigorous statistical analysis with intuitive data visualizations, I was able to derive meaningful insights.
 
-The analysis has two steps
+The analysis has two steps :
 1. [Comparing Female - Male Labor Force Participation and Employment](labor_force_participation.ipynb)
 2. [Why Women Participate in the Labor Force Less Than Men](why_women_participate_labor_force_less_than_men.ipynb)
 
